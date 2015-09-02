@@ -1,12 +1,15 @@
-parsack
-=======
+guile-parsack -- a monadic parser combinator library
+====================================================
 
-A basic Parsec-like monadic parser combinator library implementation in Racket.
+guile-parsack is a basic Parsec-like monadic parser
+combinator library implementation in Guile.
 
-[documentation](http://pkg-build.racket-lang.org/doc/parsack/index.html)
+It was ported to Guile from Stephen Chang's parsack
+library for Racket.
 
 ---
 
-Copyright &copy; 2013-2015 Stephen Chang
+Licensed under the MIT license.
 
-Licensed under the MIT License. See LICENSE.
+Copyright &copy;      2015 Remy Goldschmidt
+Copyright &copy; 2013-2015 Stephen Chang
